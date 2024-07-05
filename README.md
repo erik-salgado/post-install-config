@@ -10,6 +10,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Microsoft Azure (Virtual Machine Windows 10 Pro)
 - Remote Desktop
+- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
